@@ -1,29 +1,6 @@
-# DSA-JAVA-CPP
-# check list for MST
-### Analyzing Algorithms:
-- [ ] Basics of algorithm and its analysis
-- [ ] Complexity classes
-- [ ] Order arithmetic
-- [ ] Time and space trade-off in algorithms
 
-### Linear Data Structures:
-- [x] Arrays
-- [ ] Strings and string processing
-- [ ] Linked lists
-    - [ ] Singly
-    - [ ] Circular
-- [ ] Abstract data types, their implementation and applications
-- [ ] Stacks using:
-    - [ ] Arrays
-    - [ ] Linked list
-- [ ] Queues using:
-    - [ ] Arrays
-    - [ ] Linked list
+# new start - 2025-03-13
+A new start 
+will follow striver sheet from now on and try to maintain a log of what i did daily
 
-### Searching and Sorting:
-- [x] Linear Search
-- [ ] Binary Search
-- [ ] Introduction to internal and external sort
-- [ ] Bubble Sort
-- [ ] Selection Sort
-- [ ] Insertion Sort
+https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2
